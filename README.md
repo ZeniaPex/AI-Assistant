@@ -11,17 +11,6 @@ AI Image Generator using GPT and Lexica Image Search.
 Multi-Language Translator with GPT and Google Translator.
 Whether you're looking to chat with a smart assistant, create stunning images from text prompts, or translate languages seamlessly, this app has you covered!
 
-📦 APK Downloads:
-You can download the APK files to install the app on your device:
-
-Global APK:
-Download Global APK
-(Supports all devices)
-
-ARM APK:
-Download ARM APK
-(Supports ARM v7 and v8 devices)
-
 📸 Screenshots:
 Here's a preview of the app's interface:
 
